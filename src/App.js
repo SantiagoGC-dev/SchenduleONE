@@ -5,7 +5,7 @@ import GestorCitas from './components/GestorCitas';
 function Home() {
   return (
     <div className="flex flex-col items-center justify-center h-screen bg-gradient-to-r from-blue-100 to-blue-300 text-center">
-      <h1 className="text-5xl font-bold text-sky-700 mb-6">SchenduleONE</h1>
+      <h1 className="text-5xl font-bold text-sky-700 mb-6">ScheduleONE</h1>
       <p className="text-lg text-gray-700 mb-8">Here I will organize my work </p>
       <Link
         to="/registrar"
